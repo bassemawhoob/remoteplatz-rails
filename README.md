@@ -1,6 +1,7 @@
 # Demo Ruby Application
 
 An apporach for: https://github.com/internsvalley/Ruby-on-rails-full-stack-test
+
 A deployed version is live on Heroku and is briefly discussed below
 
 ## 1. API Task - Features implemented:
