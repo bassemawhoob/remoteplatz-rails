@@ -14,7 +14,7 @@ A deployed version is live on Heroku and is briefly discussed below
 4. Error handling
    * All possible scenarios that the 3rd party provider may encouter are well handled and documented in the code
 
-## 2. Pricing algorithm:
+## 2. Pricing algorithm
 
 
 
